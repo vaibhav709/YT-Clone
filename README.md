@@ -1,3 +1,34 @@
+Youtbe Clone using ReactJS
+
+
+
+![Screenshot 2024-09-15 170431](https://github.com/user-attachments/assets/a9b3f592-9ccd-4d61-b3ea-cf068e86517a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
